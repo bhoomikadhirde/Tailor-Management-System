@@ -1,0 +1,6 @@
+{
+  "name": "Tailor Management System",
+  "description": "A professional Tailor Management System featuring role-based auth, client profiles, custom measurement tracking, order workflow monitoring, and automated billing invoices. Includes an integrated Spring Boot & MySQL backend code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
